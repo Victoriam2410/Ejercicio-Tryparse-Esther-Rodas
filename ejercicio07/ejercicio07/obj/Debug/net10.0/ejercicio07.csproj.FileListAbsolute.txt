@@ -1,0 +1,14 @@
+V:\programacion Primer semestre\tryparse\ejercicio07\ejercicio07\bin\Debug\net10.0\ejercicio07.exe
+V:\programacion Primer semestre\tryparse\ejercicio07\ejercicio07\bin\Debug\net10.0\ejercicio07.deps.json
+V:\programacion Primer semestre\tryparse\ejercicio07\ejercicio07\bin\Debug\net10.0\ejercicio07.runtimeconfig.json
+V:\programacion Primer semestre\tryparse\ejercicio07\ejercicio07\bin\Debug\net10.0\ejercicio07.dll
+V:\programacion Primer semestre\tryparse\ejercicio07\ejercicio07\bin\Debug\net10.0\ejercicio07.pdb
+V:\programacion Primer semestre\tryparse\ejercicio07\ejercicio07\obj\Debug\net10.0\ejercicio07.GeneratedMSBuildEditorConfig.editorconfig
+V:\programacion Primer semestre\tryparse\ejercicio07\ejercicio07\obj\Debug\net10.0\ejercicio07.AssemblyInfoInputs.cache
+V:\programacion Primer semestre\tryparse\ejercicio07\ejercicio07\obj\Debug\net10.0\ejercicio07.AssemblyInfo.cs
+V:\programacion Primer semestre\tryparse\ejercicio07\ejercicio07\obj\Debug\net10.0\ejercicio07.csproj.CoreCompileInputs.cache
+V:\programacion Primer semestre\tryparse\ejercicio07\ejercicio07\obj\Debug\net10.0\ejercicio07.dll
+V:\programacion Primer semestre\tryparse\ejercicio07\ejercicio07\obj\Debug\net10.0\refint\ejercicio07.dll
+V:\programacion Primer semestre\tryparse\ejercicio07\ejercicio07\obj\Debug\net10.0\ejercicio07.pdb
+V:\programacion Primer semestre\tryparse\ejercicio07\ejercicio07\obj\Debug\net10.0\ejercicio07.genruntimeconfig.cache
+V:\programacion Primer semestre\tryparse\ejercicio07\ejercicio07\obj\Debug\net10.0\ref\ejercicio07.dll

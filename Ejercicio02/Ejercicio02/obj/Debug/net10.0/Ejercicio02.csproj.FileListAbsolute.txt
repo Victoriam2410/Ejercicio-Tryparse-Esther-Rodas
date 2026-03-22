@@ -1,0 +1,14 @@
+V:\programacion Primer semestre\tryparse\Ejercicio02\Ejercicio02\bin\Debug\net10.0\Ejercicio02.exe
+V:\programacion Primer semestre\tryparse\Ejercicio02\Ejercicio02\bin\Debug\net10.0\Ejercicio02.deps.json
+V:\programacion Primer semestre\tryparse\Ejercicio02\Ejercicio02\bin\Debug\net10.0\Ejercicio02.runtimeconfig.json
+V:\programacion Primer semestre\tryparse\Ejercicio02\Ejercicio02\bin\Debug\net10.0\Ejercicio02.dll
+V:\programacion Primer semestre\tryparse\Ejercicio02\Ejercicio02\bin\Debug\net10.0\Ejercicio02.pdb
+V:\programacion Primer semestre\tryparse\Ejercicio02\Ejercicio02\obj\Debug\net10.0\Ejercicio02.GeneratedMSBuildEditorConfig.editorconfig
+V:\programacion Primer semestre\tryparse\Ejercicio02\Ejercicio02\obj\Debug\net10.0\Ejercicio02.AssemblyInfoInputs.cache
+V:\programacion Primer semestre\tryparse\Ejercicio02\Ejercicio02\obj\Debug\net10.0\Ejercicio02.AssemblyInfo.cs
+V:\programacion Primer semestre\tryparse\Ejercicio02\Ejercicio02\obj\Debug\net10.0\Ejercicio02.csproj.CoreCompileInputs.cache
+V:\programacion Primer semestre\tryparse\Ejercicio02\Ejercicio02\obj\Debug\net10.0\Ejercicio02.dll
+V:\programacion Primer semestre\tryparse\Ejercicio02\Ejercicio02\obj\Debug\net10.0\refint\Ejercicio02.dll
+V:\programacion Primer semestre\tryparse\Ejercicio02\Ejercicio02\obj\Debug\net10.0\Ejercicio02.pdb
+V:\programacion Primer semestre\tryparse\Ejercicio02\Ejercicio02\obj\Debug\net10.0\Ejercicio02.genruntimeconfig.cache
+V:\programacion Primer semestre\tryparse\Ejercicio02\Ejercicio02\obj\Debug\net10.0\ref\Ejercicio02.dll
